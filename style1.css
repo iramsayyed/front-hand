@@ -1,0 +1,15 @@
+.red{
+    background:rgb(233, 6, 6)
+    
+    ;
+    color:white
+}
+.green{
+    background-color: rgba(0, 128, 0, 0.966);
+    color:aqua
+}
+.brown{
+    background-color: blueviolet;
+    color:black
+}
+/*  */
